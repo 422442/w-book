@@ -19,7 +19,10 @@ A beautiful, interactive way to showcase your personal book collection with a pa
 
 ### Setup
 
-1. **Clone or download** this repository to your computer
+1. **Clone** this repository to your computer:
+   ```bash
+   git clone https://github.com/422442/w-book.git
+   ```
 2. **Open the folder** containing the files
 3. **Customize your collection** by:
    - Adding your book cover images to the `images` folder
