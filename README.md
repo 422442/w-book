@@ -31,7 +31,7 @@ A beautiful, interactive way to showcase your personal book collection with a pa
 ### Running the App
 
 1. Simply open `index.html` in your web browser
-2. Enter the password when prompted (default: `Niranjan@11`)
+2. Enter the password when prompted (default: `Books@123`)
 3. Enjoy browsing your book collection!
 
 ## 🛠️ Project Structure
